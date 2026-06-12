@@ -1,0 +1,55 @@
+name: sakeenah_ai
+description: "Sakeenah AI - Smart Assistant for Hajj"
+
+# يمنع نشر الحزمة مسبقاً في pub.dev
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # أيقونات الكوبرتينو الافتراضية
+  cupertino_icons: ^1.0.8
+
+  # الحساسات والصوت (الحزم الأساسية لكودك القديم)
+  sensors_plus: ^5.0.1
+  flutter_tts: ^4.0.2
+
+  # الحزم الجديدة: الخريطة، الحسابات الجغرافية، والـ GPS الأوفلاين
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.1
+  geolocator: ^10.1.0
+
+  # الحزم الناقصة لفك ضغط الخريطة وحفظها في الذاكرة الداخلية (مهمة جداً للأوفلاين)
+  path_provider: ^2.1.3
+  archive: ^3.6.1
+
+  # عداد الخطوات الأوفلاين للطواف والسعي
+  pedometer_2: ^5.0.4
+
+  # بلوتوث للطوارئ
+  flutter_blue_plus: ^1.32.0
+
+  # إدارة الصلاحيات
+  permission_handler: ^11.3.1
+
+  # الاهتزاز للتنبيهات
+  vibration: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # تعريف ملفات الـ Assets في المشروع
+  assets:
+    - assets/map_tiles/
+    - assets/map_tiles/map_tiles.zip
