@@ -80,7 +80,7 @@ Meet the brilliant minds behind **Sakina AI**.
 
 | Developer Name | GitHub | LinkedIn |
 | :--- | :---: | :---: |
-| **Jody Ahmed** | <a href="LINK_HERE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> | <a href="LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> |
+| **Jody Ahmed** | <a href="https://github.com/Jody-Ahmed06"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> | <a href="LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> |
 | **Rojan Hamdy** | <a href="https://github.com/rojan-hamdy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> | <a href="https://www.linkedin.com/in/rojan-hamdy-8a4683397/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> |
 | **Nour Ahmed** | <a href="https://github.com/nourahmedmohamed1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> | <a href="https://www.linkedin.com/in/nn-anwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> |
 
