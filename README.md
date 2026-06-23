@@ -76,7 +76,7 @@ A protection system divided into three levels based on the health condition to e
 ---
 
 ## 🤝 Project Contributors
-Meet the brilliant minds behind **Sakina AI**. Feel free to connect with us!
+Meet the brilliant minds behind **Sakina AI**. 
 
 | Developer Name | GitHub | LinkedIn |
 | :--- | :---: | :---: |
