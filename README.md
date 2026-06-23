@@ -25,7 +25,7 @@ The final vision of the project is based on operating **completely 100% offline*
 
 ---
 
-## 🚀 Targeted Features & Mechanism of Action
+##  Targeted Features & Mechanism of Action
 
 ### 🗺️ 1. True Offline Guidance and Navigation System
 * **Feature:** Provides a real-time navigation system that draws a colored path to guide the pilgrim through actual streets and alleys to reach the nearest medical facility or ambulance point.
@@ -55,13 +55,20 @@ A protection system divided into three levels based on the health condition to e
 <table width="100%">
   <tr>
     <td align="center">
-      <br/><em>(Image Placeholder: Navigation & Maps)</em>
+      <br/><em><img width="200" height="400" alt="1000132681" src="https://github.com/user-attachments/assets/c8884556-464d-4547-8523-35c0f03d7aed" />
+</em>
     </td>
     <td align="center">
-      <br/><em>(Image Placeholder: Tawaf Counter)</em>
+      <br/><em><img width="200" height="400" alt="1000132679" src="https://github.com/user-attachments/assets/75a96742-0c40-4374-aa88-05cb8599a258" />
+</em>
     </td>
     <td align="center">
-      <br/><em>(Image Placeholder: Emergency SOS)</em>
+      <br/><em><img width="200" height="400" alt="1000132680" src="https://github.com/user-attachments/assets/917081a0-5121-48af-8aae-e857b43b1aa9" />
+</em>
+    </td>    
+    <td align="center">
+      <br/><em><img width="200" height="400" alt="1000132678" src="https://github.com/user-attachments/assets/79f88ba3-4954-486f-b439-fdca7f8e9b7c" />
+</em>
     </td>
   </tr>
 </table>
